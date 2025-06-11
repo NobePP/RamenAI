@@ -10,7 +10,7 @@ import time
 # --- 1. 設定項目 ---
 
 # ★ データセットがある親フォルダのパスをここに指定してください
-base_path = r"C:\Users\honob\Downloads\純すみ系\ramen_data"
+base_path = r"your_path"
 
 # 画像のサイズとバッチサイズ
 IMG_SIZE = 224
